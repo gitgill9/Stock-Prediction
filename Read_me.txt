@@ -1,0 +1,14 @@
+--- There are five folders each representing a single company
+	- Includes all data in csv files and jupyter notebooks in it related to that company
+--- There are 5 datasets used in project to represent data of 5 companies:
+	- CVX.csv   (Chevron)
+	- XOM.csv   (ExxonMobil)
+	- COP.csv   (Conoco Philips)
+	- EOG.csv   (EOG Resources)
+	- APC.F.csv (Anadarko Petroleum)
+--- There are 3 jupyter notebooks for each company based on technical indiactor used (exceot cvx, which includes 5 notebooks)
+	- Price_Prediction.ipynb
+	- MACD_Prediction.ipynb
+	- RSI_Prediction.ipynb
+--- There is one pdf file included as final report
+	
