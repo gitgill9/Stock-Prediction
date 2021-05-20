@@ -6,7 +6,7 @@
 	- COP.csv   (Conoco Philips)
 	- EOG.csv   (EOG Resources)
 	- APC.F.csv (Anadarko Petroleum)
---- There are 3 jupyter notebooks for each company based on technical indiactor used (exceot cvx, which includes 5 notebooks)
+--- There are 3 jupyter notebooks for each company based on technical indiactor used (except cvx, which includes 5 notebooks)
 	- Price_Prediction.ipynb
 	- MACD_Prediction.ipynb
 	- RSI_Prediction.ipynb
